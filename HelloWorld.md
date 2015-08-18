@@ -25,4 +25,6 @@ The file contains some simple markdown examples.
     + sub-item 1
     + sub-item 2
 2. item 2
+    + sub-item 1
+    + sub-item 2
 3. item 3
